@@ -1,0 +1,25 @@
+Starting Dynare (version 5.0).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 6 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0.022717 : Intertemporal Euler Equation
+Equation number 2 : -1.3776 : Intratemporal Euler Equation
+Equation number 3 : 35.8601 : Capital utilization
+Equation number 4 : -0.037419 : Budget constraint
+Equation number 5 : 0 : Production shock
+Equation number 6 : 0 : Utilization shock
+
+
